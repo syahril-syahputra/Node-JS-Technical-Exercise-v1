@@ -1,0 +1,26 @@
+{
+    "fixed" : [
+        {
+            "date" :25,
+            "month" : 4,
+            "note" : "Anzac Day - 25th of April every year"
+        }
+    ],
+    "same" : [
+        {
+            "date" :10,
+            "month" : 4,
+            "note" : "Sample Day - 16th of April every year but falls on a weekend so holyday would be next Monday "
+        }
+
+    ],
+    "dynamic" : [
+        {
+            "week" : 3,
+            "day" : 1,
+            "month" : 6,
+            "note" : "Queen’s Birthday - every second Monday in June"
+        }
+    ]
+
+}

@@ -1,0 +1,16 @@
+{
+  "name": "myexcercise",
+  "version": "1.0.0",
+  "description": "This Is For My Technical Exercise",
+  "main": "app.js",
+  "scripts": {
+    "start": "SET NODE_ENV=development && nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syahril Syahputra",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0"
+  }
+}
